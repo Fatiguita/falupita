@@ -17,12 +17,13 @@
 2.  **Run the App**:
     *   **Option A (GitHub Pages)**: Fork this repo and enable GitHub Pages in Settings.
     *   **Option B (Local)**:
-        *   Clone the repo.
-        *   Run a static server (e.g., `python3 -m http.server` or VS Code Live Server).
-        *   Open `index.html`.
+        *   Clone the repo and open terminal on project folder.
+        *   Run npm install to install packages. (sudo apt install npm if you haven't)
+        *   Then do "npm run dev"
+        *   Open localhost:5173 on your browser.
 
 3.  **Enter Key**:
-    *   On first load, Falupita will ask for your API key.
+    *   On first load, Falupita will ask for your API key. you can type anything if you don't have one.
     *   The key is stored securely in your browser's `localStorage`. It is never sent to any server other than Google's API.
 
 ## Customization
