@@ -1,6 +1,6 @@
 # Falupita 🎱
 
-> **Falupita** (a play on *Chalupa/Bingo*) is a serverless, AI-powered Bingo card generator.
+> **Falupita** (a play on *Chalupa/Bingo*) is a serverless, GEMINI 3.0 AI-powered Bingo card generator.
 
 ## Features
 *   **No Backend**: Runs entirely in the browser using React and ES Modules.
@@ -12,7 +12,7 @@
 
 1.  **Get an API Key**:
     *   Go to [Google AI Studio](https://aistudio.google.com/app/apikey).
-    *   Create a **Paid** API Key (required for the image generation model).
+    *   Create a **Paid** API Key (required for the image generation model). **(You can just upload your images though)**
     
 2.  **Run the App**:
     *   **Option A (GitHub Pages)**: Fork this repo and enable GitHub Pages in Settings.
