@@ -10,6 +10,18 @@
 *   **Print Ready**: Exports shuffled, high-resolution PDF sheets and cut-out token guides.
 *   **Session Management**: Save and load your progress via ZIP files.
 
+## Session System & Privacy (How Saving Works)
+Falupita is a **client-side only** application. This means:
+
+1.  **No Server Storage**: Images you upload or generate are stored in your browser's memory (RAM). They are **not** hosted on GitHub Pages or any database.
+2.  **Data Persistence**: Because there is no database, **refreshing the page will wipe your board**.
+3.  **Saving Your Work**:
+    *   Click the **Archive/Save** button to download a `.zip` file to your computer.
+    *   This ZIP contains your images and a `session.json` file with your prompts and settings.
+4.  **Restoring**:
+    *   Click the **Upload** button and select a previously saved `.zip` file to restore your session exactly where you left off.
+5.  **AI Privacy**: When generating images, data is sent directly from your browser to Google's Gemini API. It effectively bypasses Falupita entirely.
+
 ## Setup & Usage
 
 1.  **Get an API Key**:
