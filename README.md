@@ -2,6 +2,8 @@
 
 > **Falupita** (a play on *Chalupa/Bingo*) is a serverless, GEMINI 3.0 AI-powered Bingo card generator.
 
+### 🚀 **[Play Falupita Live Here](https://fatiguita.github.io/falupita/)**
+
 ## Features
 *   **No Backend**: Runs entirely in the browser using React and ES Modules.
 *   **AI Generated Images**: Uses Google's **Gemini Nano Banana** model (`gemini-2.5-flash-image`) to generate or restyle token images on the fly.
