@@ -18,7 +18,7 @@
     *   **Option A (GitHub Pages)**: Fork this repo and enable GitHub Pages in Settings.
     *   **Option B (Local)**:
         *   Clone the repo and open terminal on project folder.
-        *   Run npm install to install packages. (sudo apt install npm if you haven't)
+        *   Run "npm install" to install packages. (sudo apt install npm if you haven't)
         *   Then do "npm run dev"
         *   Open localhost:5173 on your browser.
 
