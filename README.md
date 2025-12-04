@@ -1,6 +1,6 @@
 # Falupita 🎱
 
-> **Falupita** (a play on *Chalupa/Bingo*) is a serverless, GEMINI 3.0 AI-powered Bingo card generator.
+> **Falupita** (a play on *Chalupa/Bingo*) is a serverless, AI-powered Bingo card generator. (made with GEMINI 3.0)
 
 ### 🚀 **[Play Falupita Live Here](https://fatiguita.github.io/falupita/)**
 
